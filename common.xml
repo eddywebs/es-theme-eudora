@@ -114,7 +114,7 @@ based on:		"carbon" by eric hettervik
 			<horizontalMargin>0.015</horizontalMargin>
 			<alignment>left</alignment>
 			<forceUppercase>1</forceUppercase>
-			<!--<scrollSound>./common/sounds/slide003.wav</scrollSound>-->
+			<scrollSound>./common/sounds/slide003.wav</scrollSound>
 		</textlist>
 	</view>
 
